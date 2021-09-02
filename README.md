@@ -1,5 +1,5 @@
 # Image-Forgery-Detection-Using-DCT
-Detects areas of copy-move forgery in images using the concept of Discrete Cosine Transforms
+
 
 ## About
 This project focuses on detecting a specific form of image forgery known as a copy-move attack, in which a portion of an image is copied and pasted elsewhere. We’ve accomplished the task of implementing a detection method for this kind of forgery, using image processing concepts such as discrete cosine transforms and quantization.
