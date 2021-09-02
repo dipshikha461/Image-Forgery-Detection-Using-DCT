@@ -6,6 +6,7 @@ This project focuses on detecting a specific form of image forgery known as a co
 
 ## Workflow
 ![image](https://user-images.githubusercontent.com/60460452/131822110-88a9ec9c-3e2b-48c2-a2d9-21c8f06345df.png)
+
 ***The Algorithm***
 
 ## Steps to run 
