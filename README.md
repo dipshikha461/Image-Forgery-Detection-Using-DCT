@@ -12,7 +12,7 @@ This project focuses on detecting a specific form of image forgery known as a co
 ## Steps to run 
 1. Download and store all the files present in the _Code Files_ locally
 2. Mention the name of the image you'd like to read at _line 19_ in the **_cmf_detect.py_** file
-3. Run _cmf_detect.py_ to see results.
+3. Run **_cmf_detect.py_** to see results.
 
 ## Sample Result
 ![image](https://user-images.githubusercontent.com/60460452/131822589-5609f078-af14-41f2-8a30-751d8b5fff73.png)
